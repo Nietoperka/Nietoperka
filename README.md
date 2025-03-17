@@ -3,6 +3,7 @@
 I am a begginer programist from Poland :poland:
 <p>
 :snake:&emsp;  I have experience in Python 3.0 and PyTorch <br/><br/>
+:brain:&emsp;  I started learning SQL, Data Analysis and BigData <br/><br/>  
 :robot:  &emsp;   I am interested in Machine Learning and AI <br/><br/>
 :neckbeard:  &emsp;   Love to know more and more<br/><br/>
 
